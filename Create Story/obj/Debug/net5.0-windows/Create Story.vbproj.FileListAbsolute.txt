@@ -1,0 +1,19 @@
+W:\VB2017\Create Story\Create Story\obj\Debug\net5.0-windows\Create Story.vbproj.AssemblyReference.cache
+W:\VB2017\Create Story\Create Story\obj\Debug\net5.0-windows\Create_Story.Resources.resources
+W:\VB2017\Create Story\Create Story\obj\Debug\net5.0-windows\Create Story.vbproj.GenerateResource.cache
+W:\VB2017\Create Story\Create Story\obj\Debug\net5.0-windows\Create Story.GeneratedMSBuildEditorConfig.editorconfig
+W:\VB2017\Create Story\Create Story\obj\Debug\net5.0-windows\Create Story.AssemblyInfoInputs.cache
+W:\VB2017\Create Story\Create Story\obj\Debug\net5.0-windows\Create Story.AssemblyInfo.vb
+W:\VB2017\Create Story\Create Story\obj\Debug\net5.0-windows\Create Story.vbproj.CoreCompileInputs.cache
+W:\VB2017\Create Story\Create Story\bin\Debug\net5.0-windows\Create Story.exe
+W:\VB2017\Create Story\Create Story\bin\Debug\net5.0-windows\Create Story.deps.json
+W:\VB2017\Create Story\Create Story\bin\Debug\net5.0-windows\Create Story.runtimeconfig.json
+W:\VB2017\Create Story\Create Story\bin\Debug\net5.0-windows\Create Story.runtimeconfig.dev.json
+W:\VB2017\Create Story\Create Story\bin\Debug\net5.0-windows\Create Story.dll
+W:\VB2017\Create Story\Create Story\bin\Debug\net5.0-windows\Create Story.pdb
+W:\VB2017\Create Story\Create Story\obj\Debug\net5.0-windows\Create_Story.Form1.resources
+W:\VB2017\Create Story\Create Story\obj\Debug\net5.0-windows\Create Story.dll
+W:\VB2017\Create Story\Create Story\obj\Debug\net5.0-windows\refint\Create Story.dll
+W:\VB2017\Create Story\Create Story\obj\Debug\net5.0-windows\Create Story.pdb
+W:\VB2017\Create Story\Create Story\obj\Debug\net5.0-windows\Create Story.genruntimeconfig.cache
+W:\VB2017\Create Story\Create Story\obj\Debug\net5.0-windows\ref\Create Story.dll
